@@ -1,0 +1,12 @@
+git
+maven
+jenkins
+sonarqube
+jfrog
+docker
+kubernetes
+terraform
+aws
+shell
+yaml
+xml etc
